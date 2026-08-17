@@ -1,0 +1,266 @@
+{
+  "source": "business.oa_shop_order",
+  "shopScope": "single authorized canary shop",
+  "filters": [
+    "is_sample_order IS DISTINCT FROM TRUE",
+    "status IS DISTINCT FROM 'CANCELLED'"
+  ],
+  "orderCount": 1788,
+  "freshness": "2026-08-17 14:14:54.364+00",
+  "orderWindow": {
+    "from": "2025-06-20 17:52:44+00",
+    "to": "2026-08-17 06:37:15+00"
+  },
+  "regions": [
+    {
+      "code": "CA",
+      "name": "California",
+      "orders": 352
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "orders": 154
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "orders": 149
+    },
+    {
+      "code": "FL",
+      "name": "Florida",
+      "orders": 97
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "orders": 81
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "orders": 77
+    },
+    {
+      "code": "WA",
+      "name": "Washington",
+      "orders": 63
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "orders": 57
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "orders": 55
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "orders": 49
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "orders": 43
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "orders": 40
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "orders": 38
+    },
+    {
+      "code": "MI",
+      "name": "Michigan",
+      "orders": 37
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "orders": 35
+    },
+    {
+      "code": "OH",
+      "name": "Ohio",
+      "orders": 34
+    },
+    {
+      "code": "OR",
+      "name": "Oregon",
+      "orders": 34
+    },
+    {
+      "code": "MD",
+      "name": "Maryland",
+      "orders": 33
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "orders": 28
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "orders": 27
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "orders": 25
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "orders": 21
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "orders": 19
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "orders": 18
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "orders": 17
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "orders": 17
+    },
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "orders": 15
+    },
+    {
+      "code": "NV",
+      "name": "Nevada",
+      "orders": 15
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska",
+      "orders": 13
+    },
+    {
+      "code": "ID",
+      "name": "Idaho",
+      "orders": 13
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "orders": 13
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "orders": 12
+    },
+    {
+      "code": "LA",
+      "name": "Louisiana",
+      "orders": 11
+    },
+    {
+      "code": "HI",
+      "name": "Hawaii",
+      "orders": 11
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "orders": 10
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "orders": 9
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "orders": 9
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "orders": 8
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "orders": 8
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "orders": 8
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "orders": 7
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "orders": 6
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "orders": 6
+    },
+    {
+      "code": "DE",
+      "name": "Delaware",
+      "orders": 4
+    },
+    {
+      "code": "MT",
+      "name": "Montana",
+      "orders": 2
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota",
+      "orders": 2
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia",
+      "orders": 2
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming",
+      "orders": 2
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "orders": 1
+    },
+    {
+      "code": "AK",
+      "name": "Alaska",
+      "orders": 1
+    }
+  ]
+}
